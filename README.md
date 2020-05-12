@@ -14,3 +14,6 @@
 **commitizen**
 
    gitcommit message规范管理工具
+   commitizen init cz-conventional-changelog --save-dev --save-exact
+
+   https://github.com/commitizen/cz-cli
